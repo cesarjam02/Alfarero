@@ -297,13 +297,13 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (langToggle) {
         langToggle.addEventListener('click', function () {
-            const current = langToggle.getAttribute('data-lang') || 'en';
+            const current = langToggle.getAttribute('data-lang') || 'es';
             const next = current === 'en' ? 'es' : 'en';
             applyLanguage(next);
         });
     }
 
-    applyLanguage('en');
+    applyLanguage('es');
 
     document.querySelectorAll('[data-add-to-cart]').forEach(function (btn) {
         btn.addEventListener('click', function () {

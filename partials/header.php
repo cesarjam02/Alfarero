@@ -4,7 +4,7 @@ if (!isset($pageTitle)) {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,9 +45,9 @@ if (!isset($pageTitle)) {
                 <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
                     <button class="btn btn-sm btn-outline-light" id="lang-toggle"
                             type="button"
-                            data-lang="en"
+                            data-lang="es"
                             aria-label="Toggle language">
-                        <span data-i18n="lang_button">ES</span>
+                        <span data-i18n="lang_button">EN</span>
                     </button>
                 </li>
             </ul>
