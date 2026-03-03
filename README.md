@@ -1,6 +1,6 @@
-## Restaurant PHP Website
+## Restaurant  Website
 
-This is a simple, modern, responsive restaurant website built with **pure PHP**, **HTML5**, **CSS3**, and **Bootstrap** (via CDN). It is designed to run easily on XAMPP.
+This is a simple, modern, responsive restaurant website built with , **HTML5**, **CSS3**, and **Bootstrap** (via CDN). It is designed to run easily on XAMPP.
 
 ### Features
 
