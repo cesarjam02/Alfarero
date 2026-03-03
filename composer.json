@@ -1,0 +1,13 @@
+{
+  "name": "local/restaurant-site",
+  "description": "Simple PHP restaurant website for XAMPP.",
+  "type": "project",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Restaurant\\": "src/"
+    }
+  }
+}
+
